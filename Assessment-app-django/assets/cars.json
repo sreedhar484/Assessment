@@ -1,0 +1,2017 @@
+[{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257da"
+  },
+  "Name": "plymouth satellite",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 1,
+  "location": [
+    "87.8687",
+    "2.9233"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257db"
+  },
+  "Name": "amc rebel sst",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 2,
+  "location": [
+    "34.1641",
+    "93.4765"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257dc"
+  },
+  "Name": "ford torino",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 3,
+  "location": [
+    "84.7645",
+    "37.3367"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257dd"
+  },
+  "Name": "ford galaxie 500",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 71,
+  "location": [
+    "79.8354",
+    "68.3476"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257de"
+  },
+  "Name": "chevrolet impala",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 109,
+  "location": [
+    "24.4897",
+    "59.4931"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257df"
+  },
+  "Name": "plymouth fury iii",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 70,
+  "location": [
+    "44.3830",
+    "5.4254"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257e0"
+  },
+  "Name": "pontiac catalina",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 162,
+  "location": [
+    "70.2692",
+    "22.1484"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257e1"
+  },
+  "Name": "amc ambassador dpl",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 8,
+  "location": [
+    "70.3518",
+    "57.0044"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257e2"
+  },
+  "Name": "citroen ds-21 pallas",
+  "Year": "1970-01-01",
+  "Origin": "Europe",
+  "id": 9,
+  "location": [
+    "11.8439",
+    "0.3886"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257e3"
+  },
+  "Name": "chevrolet chevelle concours (sw)",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 79,
+  "location": [
+    "72.9751",
+    "36.5079"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257e4"
+  },
+  "Name": "ford torino (sw)",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 11,
+  "location": [
+    "84.6793",
+    "45.0674"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257e5"
+  },
+  "Name": "plymouth satellite (sw)",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 12,
+  "location": [
+    "84.2713",
+    "21.9570"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257e6"
+  },
+  "Name": "amc rebel sst (sw)",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 13,
+  "location": [
+    "59.8388",
+    "69.5584"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257e7"
+  },
+  "Name": "dodge challenger se",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 14,
+  "location": [
+    "74.8500",
+    "10.4700"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257e8"
+  },
+  "Name": "plymouth 'cuda 340",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 15,
+  "location": [
+    "41.7849",
+    "30.0742"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257e9"
+  },
+  "Name": "ford mustang boss 302",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 16,
+  "location": [
+    "11.3960",
+    "39.7848"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257ea"
+  },
+  "Name": "chevrolet monte carlo",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 17,
+  "location": [
+    "70.6981",
+    "75.7182"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257eb"
+  },
+  "Name": "buick estate wagon (sw)",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 295,
+  "location": [
+    "12.6552",
+    "48.3695"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257ec"
+  },
+  "Name": "toyota corona mark ii",
+  "Year": "1970-01-01",
+  "Origin": "Japan",
+  "id": 19,
+  "location": [
+    "97.8413",
+    "82.3855"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257ed"
+  },
+  "Name": "plymouth duster",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 131,
+  "location": [
+    "64.9252",
+    "19.4609"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257ee"
+  },
+  "Name": "amc hornet",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 200,
+  "location": [
+    "1.8538",
+    "48.7046"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257ef"
+  },
+  "Name": "ford maverick",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 199,
+  "location": [
+    "0.5109",
+    "79.6270"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257f0"
+  },
+  "Name": "datsun pl510",
+  "Year": "1970-01-01",
+  "Origin": "Japan",
+  "id": 34,
+  "location": [
+    "99.9193",
+    "24.3337"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257f1"
+  },
+  "Name": "volkswagen 1131 deluxe sedan",
+  "Year": "1970-01-01",
+  "Origin": "Europe",
+  "id": 24,
+  "location": [
+    "76.0487",
+    "39.6563"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257f2"
+  },
+  "Name": "peugeot 504",
+  "Year": "1970-01-01",
+  "Origin": "Europe",
+  "id": 305,
+  "location": [
+    "68.0962",
+    "75.7618"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257f3"
+  },
+  "Name": "audi 100 ls",
+  "Year": "1970-01-01",
+  "Origin": "Europe",
+  "id": 26,
+  "location": [
+    "0.8172",
+    "51.9079"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257f4"
+  },
+  "Name": "saab 99e",
+  "Year": "1970-01-01",
+  "Origin": "Europe",
+  "id": 27,
+  "location": [
+    "6.8697",
+    "71.2192"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257f5"
+  },
+  "Name": "bmw 2002",
+  "Year": "1970-01-01",
+  "Origin": "Europe",
+  "id": 28,
+  "location": [
+    "68.1286",
+    "21.2849"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257f6"
+  },
+  "Name": "amc gremlin",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 175,
+  "location": [
+    "24.8898",
+    "35.3056"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257f7"
+  },
+  "Name": "ford f250",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 30,
+  "location": [
+    "78.0236",
+    "49.7759"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257f8"
+  },
+  "Name": "chevy c20",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 31,
+  "location": [
+    "22.7913",
+    "37.3385"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257f9"
+  },
+  "Name": "dodge d200",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 32,
+  "location": [
+    "45.6226",
+    "46.0324"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257fa"
+  },
+  "Name": "hi 1200d",
+  "Year": "1970-01-01",
+  "Origin": "India",
+  "id": 33,
+  "location": [
+    "44.0547",
+    "24.6569"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257fc"
+  },
+  "Name": "chevrolet vega 2300",
+  "Year": "1971-01-01",
+  "Origin": "India",
+  "id": 35,
+  "location": [
+    "37.1320",
+    "80.7546"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257fd"
+  },
+  "Name": "toyota corona",
+  "Year": "1971-01-01",
+  "Origin": "Japan",
+  "id": 273,
+  "location": [
+    "33.7547",
+    "16.6105"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257fe"
+  },
+  "Name": "ford pinto",
+  "Year": "1971-01-01",
+  "Origin": "India",
+  "id": 212,
+  "location": [
+    "61.3631",
+    "66.0004"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec8257ff"
+  },
+  "Name": "volkswagen super beetle 117",
+  "Year": "1971-01-01",
+  "Origin": "Europe",
+  "id": 38,
+  "location": [
+    "76.5326",
+    "73.7253"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825801"
+  },
+  "Name": "plymouth satellite custom",
+  "Year": "1971-01-01",
+  "Origin": "India",
+  "id": 40,
+  "location": [
+    "17.7418",
+    "19.5001"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825802"
+  },
+  "Name": "chevrolet chevelle malibu",
+  "Year": "1971-01-01",
+  "Origin": "India",
+  "id": 41,
+  "location": [
+    "89.2200",
+    "88.0406"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825803"
+  },
+  "Name": "ford torino 500",
+  "Year": "1971-01-01",
+  "Origin": "India",
+  "id": 42,
+  "location": [
+    "58.8241",
+    "49.3517"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825804"
+  },
+  "Name": "amc matador",
+  "Year": "1971-01-01",
+  "Origin": "India",
+  "id": 195,
+  "location": [
+    "40.6577",
+    "22.0403"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825806"
+  },
+  "Name": "pontiac catalina brougham",
+  "Year": "1971-01-01",
+  "Origin": "India",
+  "id": 45,
+  "location": [
+    "38.3979",
+    "38.7563"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825809"
+  },
+  "Name": "dodge monaco (sw)",
+  "Year": "1971-01-01",
+  "Origin": "India",
+  "id": 48,
+  "location": [
+    "62.1166",
+    "4.2493"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82580a"
+  },
+  "Name": "ford country squire (sw)",
+  "Year": "1971-01-01",
+  "Origin": "India",
+  "id": 296,
+  "location": [
+    "84.4197",
+    "94.0594"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82580b"
+  },
+  "Name": "pontiac safari (sw)",
+  "Year": "1971-01-01",
+  "Origin": "India",
+  "id": 50,
+  "location": [
+    "63.8257",
+    "51.2841"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82580c"
+  },
+  "Name": "amc hornet sportabout (sw)",
+  "Year": "1971-01-01",
+  "Origin": "India",
+  "id": 51,
+  "location": [
+    "15.9426",
+    "21.0389"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82580d"
+  },
+  "Name": "chevrolet vega (sw)",
+  "Year": "1971-01-01",
+  "Origin": "India",
+  "id": 52,
+  "location": [
+    "0.5630",
+    "4.4088"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82580e"
+  },
+  "Name": "pontiac firebird",
+  "Year": "1971-01-01",
+  "Origin": "India",
+  "id": 53,
+  "location": [
+    "93.8421",
+    "48.9264"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82580f"
+  },
+  "Name": "ford mustang",
+  "Year": "1971-01-01",
+  "Origin": "India",
+  "id": 54,
+  "location": [
+    "31.4418",
+    "76.9968"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825810"
+  },
+  "Name": "mercury capri 2000",
+  "Year": "1971-01-01",
+  "Origin": "India",
+  "id": 55,
+  "location": [
+    "62.6439",
+    "38.8079"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825811"
+  },
+  "Name": "opel 1900",
+  "Year": "1971-01-01",
+  "Origin": "Europe",
+  "id": 189,
+  "location": [
+    "15.3499",
+    "83.2766"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825812"
+  },
+  "Name": "peugeot 304",
+  "Year": "1971-01-01",
+  "Origin": "Europe",
+  "id": 57,
+  "location": [
+    "88.4353",
+    "32.6081"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825813"
+  },
+  "Name": "fiat 124b",
+  "Year": "1971-01-01",
+  "Origin": "Europe",
+  "id": 58,
+  "location": [
+    "35.2937",
+    "17.3689"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825814"
+  },
+  "Name": "toyota corolla 1200",
+  "Year": "1971-01-01",
+  "Origin": "Japan",
+  "id": 137,
+  "location": [
+    "44.0471",
+    "67.9452"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825815"
+  },
+  "Name": "datsun 1200",
+  "Year": "1971-01-01",
+  "Origin": "Japan",
+  "id": 60,
+  "location": [
+    "22.4935",
+    "58.3255"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825816"
+  },
+  "Name": "volkswagen model 111",
+  "Year": "1971-01-01",
+  "Origin": "Europe",
+  "id": 61,
+  "location": [
+    "94.9178",
+    "52.0267"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825817"
+  },
+  "Name": "plymouth cricket",
+  "Year": "1971-01-01",
+  "Origin": "India",
+  "id": 62,
+  "location": [
+    "90.0232",
+    "35.6740"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825818"
+  },
+  "Name": "toyota corona hardtop",
+  "Year": "1972-01-01",
+  "Origin": "Japan",
+  "id": 63,
+  "location": [
+    "53.7281",
+    "14.9450"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825819"
+  },
+  "Name": "dodge colt hardtop",
+  "Year": "1972-01-01",
+  "Origin": "India",
+  "id": 64,
+  "location": [
+    "64.4710",
+    "94.2120"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82581a"
+  },
+  "Name": "volkswagen type 3",
+  "Year": "1972-01-01",
+  "Origin": "Europe",
+  "id": 65,
+  "location": [
+    "43.9687",
+    "90.2469"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82581b"
+  },
+  "Name": "chevrolet vega",
+  "Year": "1972-01-01",
+  "Origin": "India",
+  "id": 138,
+  "location": [
+    "52.6490",
+    "21.9424"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82581c"
+  },
+  "Name": "ford pinto runabout",
+  "Year": "1972-01-01",
+  "Origin": "India",
+  "id": 67,
+  "location": [
+    "43.2517",
+    "10.4569"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825821"
+  },
+  "Name": "amc ambassador sst",
+  "Year": "1972-01-01",
+  "Origin": "India",
+  "id": 72,
+  "location": [
+    "95.8647",
+    "95.6989"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825822"
+  },
+  "Name": "mercury marquis",
+  "Year": "1972-01-01",
+  "Origin": "India",
+  "id": 73,
+  "location": [
+    "71.3692",
+    "44.2406"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825823"
+  },
+  "Name": "buick lesabre custom",
+  "Year": "1972-01-01",
+  "Origin": "India",
+  "id": 74,
+  "location": [
+    "35.0915",
+    "52.7116"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825824"
+  },
+  "Name": "oldsmobile delta 88 royale",
+  "Year": "1972-01-01",
+  "Origin": "India",
+  "id": 75,
+  "location": [
+    "21.1228",
+    "26.5699"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825825"
+  },
+  "Name": "chrysler newport royal",
+  "Year": "1972-01-01",
+  "Origin": "India",
+  "id": 76,
+  "location": [
+    "55.3409",
+    "56.8293"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825826"
+  },
+  "Name": "mazda rx2 coupe",
+  "Year": "1972-01-01",
+  "Origin": "Japan",
+  "id": 77,
+  "location": [
+    "83.2229",
+    "82.2163"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825827"
+  },
+  "Name": "amc matador (sw)",
+  "Year": "1972-01-01",
+  "Origin": "India",
+  "id": 146,
+  "location": [
+    "35.7921",
+    "14.6729"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825829"
+  },
+  "Name": "ford gran torino (sw)",
+  "Year": "1972-01-01",
+  "Origin": "India",
+  "id": 145,
+  "location": [
+    "46.7296",
+    "54.6076"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82582a"
+  },
+  "Name": "plymouth satellite custom (sw)",
+  "Year": "1972-01-01",
+  "Origin": "India",
+  "id": 81,
+  "location": [
+    "76.1506",
+    "48.6147"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82582b"
+  },
+  "Name": "volvo 145e (sw)",
+  "Year": "1972-01-01",
+  "Origin": "Europe",
+  "id": 82,
+  "location": [
+    "37.8358",
+    "32.8848"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82582c"
+  },
+  "Name": "volkswagen 411 (sw)",
+  "Year": "1972-01-01",
+  "Origin": "Europe",
+  "id": 83,
+  "location": [
+    "85.2031",
+    "58.4346"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82582d"
+  },
+  "Name": "peugeot 504 (sw)",
+  "Year": "1972-01-01",
+  "Origin": "Europe",
+  "id": 84,
+  "location": [
+    "10.3031",
+    "58.3892"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82582e"
+  },
+  "Name": "renault 12 (sw)",
+  "Year": "1972-01-01",
+  "Origin": "Europe",
+  "id": 85,
+  "location": [
+    "92.7683",
+    "29.5915"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82582f"
+  },
+  "Name": "ford pinto (sw)",
+  "Year": "1972-01-01",
+  "Origin": "India",
+  "id": 86,
+  "location": [
+    "51.4966",
+    "47.8243"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825830"
+  },
+  "Name": "datsun 510 (sw)",
+  "Year": "1972-01-01",
+  "Origin": "Japan",
+  "id": 87,
+  "location": [
+    "32.0015",
+    "2.4026"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825831"
+  },
+  "Name": "toyouta corona mark ii (sw)",
+  "Year": "1972-01-01",
+  "Origin": "Japan",
+  "id": 88,
+  "location": [
+    "35.9003",
+    "33.1940"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825832"
+  },
+  "Name": "dodge colt (sw)",
+  "Year": "1972-01-01",
+  "Origin": "India",
+  "id": 89,
+  "location": [
+    "41.4306",
+    "47.1559"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825833"
+  },
+  "Name": "toyota corolla 1600 (sw)",
+  "Year": "1972-01-01",
+  "Origin": "Japan",
+  "id": 90,
+  "location": [
+    "99.5814",
+    "34.9382"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825834"
+  },
+  "Name": "buick century 350",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 91,
+  "location": [
+    "49.7979",
+    "59.4977"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825836"
+  },
+  "Name": "chevrolet malibu",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 259,
+  "location": [
+    "45.8619",
+    "44.4223"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825837"
+  },
+  "Name": "ford gran torino",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 196,
+  "location": [
+    "89.9864",
+    "31.7958"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825838"
+  },
+  "Name": "dodge coronet custom",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 95,
+  "location": [
+    "66.5979",
+    "27.3821"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825839"
+  },
+  "Name": "mercury marquis brougham",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 96,
+  "location": [
+    "62.4395",
+    "74.9301"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82583a"
+  },
+  "Name": "chevrolet caprice classic",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 291,
+  "location": [
+    "79.0766",
+    "75.9661"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82583b"
+  },
+  "Name": "ford ltd",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 165,
+  "location": [
+    "15.5369",
+    "69.6995"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82583c"
+  },
+  "Name": "plymouth fury gran sedan",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 99,
+  "location": [
+    "94.6706",
+    "9.8113"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82583d"
+  },
+  "Name": "chrysler new yorker brougham",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 100,
+  "location": [
+    "62.7328",
+    "16.9938"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82583e"
+  },
+  "Name": "buick electra 225 custom",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 101,
+  "location": [
+    "96.7858",
+    "40.4240"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82583f"
+  },
+  "Name": "amc ambassador brougham",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 102,
+  "location": [
+    "43.2888",
+    "76.9969"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825840"
+  },
+  "Name": "plymouth valiant",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 197,
+  "location": [
+    "91.2448",
+    "40.8709"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825841"
+  },
+  "Name": "chevrolet nova custom",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 104,
+  "location": [
+    "34.9262",
+    "52.5856"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825845"
+  },
+  "Name": "volkswagen super beetle",
+  "Year": "1973-01-01",
+  "Origin": "Europe",
+  "id": 108,
+  "location": [
+    "19.5949",
+    "17.5939"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825847"
+  },
+  "Name": "ford country",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 110,
+  "location": [
+    "67.5880",
+    "7.8586"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825848"
+  },
+  "Name": "plymouth custom suburb",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 111,
+  "location": [
+    "7.5816",
+    "14.7800"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825849"
+  },
+  "Name": "oldsmobile vista cruiser",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 112,
+  "location": [
+    "68.9005",
+    "23.1145"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82584b"
+  },
+  "Name": "toyota carina",
+  "Year": "1973-01-01",
+  "Origin": "Japan",
+  "id": 114,
+  "location": [
+    "95.1436",
+    "76.9837"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82584d"
+  },
+  "Name": "datsun 610",
+  "Year": "1973-01-01",
+  "Origin": "Japan",
+  "id": 116,
+  "location": [
+    "58.6879",
+    "70.6336"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82584e"
+  },
+  "Name": "maxda rx3",
+  "Year": "1973-01-01",
+  "Origin": "Japan",
+  "id": 117,
+  "location": [
+    "69.4818",
+    "45.7793"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825850"
+  },
+  "Name": "mercury capri v6",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 119,
+  "location": [
+    "76.4909",
+    "73.6154"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825851"
+  },
+  "Name": "fiat 124 sport coupe",
+  "Year": "1973-01-01",
+  "Origin": "Europe",
+  "id": 120,
+  "location": [
+    "17.2923",
+    "5.1475"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825852"
+  },
+  "Name": "chevrolet monte carlo s",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 121,
+  "location": [
+    "51.6672",
+    "70.0917"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825853"
+  },
+  "Name": "pontiac grand prix",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 122,
+  "location": [
+    "92.4251",
+    "28.8405"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825854"
+  },
+  "Name": "fiat 128",
+  "Year": "1973-01-01",
+  "Origin": "Europe",
+  "id": 153,
+  "location": [
+    "23.5621",
+    "27.2215"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825855"
+  },
+  "Name": "opel manta",
+  "Year": "1973-01-01",
+  "Origin": "Europe",
+  "id": 149,
+  "location": [
+    "20.6557",
+    "7.7919"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825856"
+  },
+  "Name": "audi 100ls",
+  "Year": "1973-01-01",
+  "Origin": "Europe",
+  "id": 183,
+  "location": [
+    "96.1792",
+    "87.9230"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825857"
+  },
+  "Name": "volvo 144ea",
+  "Year": "1973-01-01",
+  "Origin": "Europe",
+  "id": 126,
+  "location": [
+    "45.4714",
+    "73.3132"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825858"
+  },
+  "Name": "dodge dart custom",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 127,
+  "location": [
+    "88.2965",
+    "2.5116"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825859"
+  },
+  "Name": "saab 99le",
+  "Year": "1973-01-01",
+  "Origin": "Europe",
+  "id": 186,
+  "location": [
+    "72.5663",
+    "8.9343"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82585a"
+  },
+  "Name": "toyota mark ii",
+  "Year": "1973-01-01",
+  "Origin": "Japan",
+  "id": 216,
+  "location": [
+    "3.6947",
+    "72.2400"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82585b"
+  },
+  "Name": "oldsmobile omega",
+  "Year": "1973-01-01",
+  "Origin": "India",
+  "id": 130,
+  "location": [
+    "46.0669",
+    "40.7499"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82585f"
+  },
+  "Name": "chevrolet nova",
+  "Year": "1974-01-01",
+  "Origin": "India",
+  "id": 198,
+  "location": [
+    "59.3380",
+    "53.1923"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825860"
+  },
+  "Name": "datsun b210",
+  "Year": "1974-01-01",
+  "Origin": "Japan",
+  "id": 135,
+  "location": [
+    "94.5122",
+    "90.5527"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825864"
+  },
+  "Name": "chevrolet chevelle malibu classic",
+  "Year": "1974-01-01",
+  "Origin": "India",
+  "id": 193,
+  "location": [
+    "59.7657",
+    "28.4036"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825866"
+  },
+  "Name": "plymouth satellite sebring",
+  "Year": "1974-01-01",
+  "Origin": "India",
+  "id": 141,
+  "location": [
+    "95.5687",
+    "58.1503"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825868"
+  },
+  "Name": "buick century luxus (sw)",
+  "Year": "1974-01-01",
+  "Origin": "India",
+  "id": 143,
+  "location": [
+    "54.4879",
+    "7.3537"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825869"
+  },
+  "Name": "dodge coronet custom (sw)",
+  "Year": "1974-01-01",
+  "Origin": "India",
+  "id": 144,
+  "location": [
+    "32.4678",
+    "94.4407"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82586c"
+  },
+  "Name": "audi fox",
+  "Year": "1974-01-01",
+  "Origin": "Europe",
+  "id": 147,
+  "location": [
+    "14.4640",
+    "97.3454"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82586d"
+  },
+  "Name": "volkswagen dasher",
+  "Year": "1974-01-01",
+  "Origin": "Europe",
+  "id": 246,
+  "location": [
+    "19.2974",
+    "15.2957"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825870"
+  },
+  "Name": "datsun 710",
+  "Year": "1974-01-01",
+  "Origin": "Japan",
+  "id": 179,
+  "location": [
+    "20.1570",
+    "4.9164"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825871"
+  },
+  "Name": "dodge colt",
+  "Year": "1974-01-01",
+  "Origin": "India",
+  "id": 329,
+  "location": [
+    "89.3909",
+    "56.5956"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825873"
+  },
+  "Name": "fiat 124 tc",
+  "Year": "1974-01-01",
+  "Origin": "Europe",
+  "id": 154,
+  "location": [
+    "70.9352",
+    "16.2107"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825874"
+  },
+  "Name": "honda civic",
+  "Year": "1974-01-01",
+  "Origin": "Japan",
+  "id": 390,
+  "location": [
+    "89.4109",
+    "14.2054"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825875"
+  },
+  "Name": "subaru",
+  "Year": "1974-01-01",
+  "Origin": "Japan",
+  "id": 352,
+  "location": [
+    "81.6606",
+    "48.1677"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825876"
+  },
+  "Name": "fiat x1.9",
+  "Year": "1974-01-01",
+  "Origin": "Europe",
+  "id": 157,
+  "location": [
+    "54.9111",
+    "12.6400"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825877"
+  },
+  "Name": "plymouth valiant custom",
+  "Year": "1975-01-01",
+  "Origin": "India",
+  "id": 158,
+  "location": [
+    "61.3008",
+    "67.6607"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec825879"
+  },
+  "Name": "mercury monarch",
+  "Year": "1975-01-01",
+  "Origin": "India",
+  "id": 160,
+  "location": [
+    "60.7900",
+    "11.2810"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82587c"
+  },
+  "Name": "chevrolet bel air",
+  "Year": "1975-01-01",
+  "Origin": "India",
+  "id": 163,
+  "location": [
+    "39.3031",
+    "48.1878"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc657438c05ec82587d"
+  },
+  "Name": "plymouth grand fury",
+  "Year": "1975-01-01",
+  "Origin": "India",
+  "id": 164,
+  "location": [
+    "97.9908",
+    "27.1164"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec82587f"
+  },
+  "Name": "buick century",
+  "Year": "1975-01-01",
+  "Origin": "India",
+  "id": 370,
+  "location": [
+    "33.5014",
+    "61.8414"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec825880"
+  },
+  "Name": "chevroelt chevelle malibu",
+  "Year": "1975-01-01",
+  "Origin": "India",
+  "id": 167,
+  "location": [
+    "68.2704",
+    "3.2583"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec825882"
+  },
+  "Name": "plymouth fury",
+  "Year": "1975-01-01",
+  "Origin": "India",
+  "id": 169,
+  "location": [
+    "94.2882",
+    "89.4583"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec825883"
+  },
+  "Name": "buick skyhawk",
+  "Year": "1975-01-01",
+  "Origin": "India",
+  "id": 170,
+  "location": [
+    "31.4850",
+    "54.1869"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec825884"
+  },
+  "Name": "chevrolet monza 2+2",
+  "Year": "1975-01-01",
+  "Origin": "India",
+  "id": 171,
+  "location": [
+    "18.6494",
+    "75.4614"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec825885"
+  },
+  "Name": "ford mustang ii",
+  "Year": "1975-01-01",
+  "Origin": "India",
+  "id": 172,
+  "location": [
+    "61.8052",
+    "10.1208"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec825886"
+  },
+  "Name": "toyota corolla",
+  "Year": "1975-01-01",
+  "Origin": "Japan",
+  "id": 389,
+  "location": [
+    "98.2742",
+    "84.5469"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec825889"
+  },
+  "Name": "pontiac astro",
+  "Year": "1975-01-01",
+  "Origin": "India",
+  "id": 176,
+  "location": [
+    "94.9703",
+    "25.0860"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec82588e"
+  },
+  "Name": "volkswagen rabbit",
+  "Year": "1975-01-01",
+  "Origin": "Europe",
+  "id": 209,
+  "location": [
+    "97.7867",
+    "10.3211"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec82588f"
+  },
+  "Name": "amc pacer",
+  "Year": "1975-01-01",
+  "Origin": "India",
+  "id": 182,
+  "location": [
+    "74.9304",
+    "20.5947"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec825892"
+  },
+  "Name": "volvo 244dl",
+  "Year": "1975-01-01",
+  "Origin": "Europe",
+  "id": 185,
+  "location": [
+    "56.7107",
+    "88.5745"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec825894"
+  },
+  "Name": "honda civic cvcc",
+  "Year": "1975-01-01",
+  "Origin": "Japan",
+  "id": 254,
+  "location": [
+    "16.5724",
+    "0.0998"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec825895"
+  },
+  "Name": "fiat 131",
+  "Year": "1976-01-01",
+  "Origin": "Europe",
+  "id": 188,
+  "location": [
+    "14.2150",
+    "42.3861"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec825897"
+  },
+  "Name": "capri ii",
+  "Year": "1976-01-01",
+  "Origin": "India",
+  "id": 190,
+  "location": [
+    "86.3578",
+    "27.5371"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258a2"
+  },
+  "Name": "chevrolet chevette",
+  "Year": "1976-01-01",
+  "Origin": "India",
+  "id": 317,
+  "location": [
+    "76.3873",
+    "26.6510"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258a3"
+  },
+  "Name": "chevrolet woody",
+  "Year": "1976-01-01",
+  "Origin": "India",
+  "id": 202,
+  "location": [
+    "96.9454",
+    "90.9372"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258a4"
+  },
+  "Name": "vw rabbit",
+  "Year": "1976-01-01",
+  "Origin": "Europe",
+  "id": 315,
+  "location": [
+    "46.5162",
+    "88.8171"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258bd"
+  },
+  "Name": "oldsmobile cutlass supreme",
+  "Year": "1977-01-01",
+  "Origin": "India",
+  "id": 228,
+  "location": [
+    "93.6335",
+    "44.3644"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258be"
+  },
+  "Name": "dodge monaco brougham",
+  "Year": "1977-01-01",
+  "Origin": "India",
+  "id": 229,
+  "location": [
+    "13.5334",
+    "38.3677"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258bf"
+  },
+  "Name": "mercury cougar brougham",
+  "Year": "1977-01-01",
+  "Origin": "India",
+  "id": 230,
+  "location": [
+    "46.8727",
+    "99.7278"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258c0"
+  },
+  "Name": "chevrolet concours",
+  "Year": "1977-01-01",
+  "Origin": "India",
+  "id": 231,
+  "location": [
+    "28.1556",
+    "21.5911"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258c1"
+  },
+  "Name": "buick skylark",
+  "Year": "1977-01-01",
+  "Origin": "India",
+  "id": 345,
+  "location": [
+    "59.2109",
+    "89.8521"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258c2"
+  },
+  "Name": "plymouth volare custom",
+  "Year": "1977-01-01",
+  "Origin": "India",
+  "id": 233,
+  "location": [
+    "54.8089",
+    "35.1602"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258c3"
+  },
+  "Name": "ford granada",
+  "Year": "1977-01-01",
+  "Origin": "India",
+  "id": 234,
+  "location": [
+    "24.6741",
+    "45.5393"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258c4"
+  },
+  "Name": "pontiac grand prix lj",
+  "Year": "1977-01-01",
+  "Origin": "India",
+  "id": 235,
+  "location": [
+    "0.9953",
+    "37.5409"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258c5"
+  },
+  "Name": "chevrolet monte carlo landau",
+  "Year": "1977-01-01",
+  "Origin": "India",
+  "id": 268,
+  "location": [
+    "6.9305",
+    "79.7591"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258c6"
+  },
+  "Name": "chrysler cordoba",
+  "Year": "1977-01-01",
+  "Origin": "India",
+  "id": 237,
+  "location": [
+    "81.1980",
+    "85.6721"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258c7"
+  },
+  "Name": "ford thunderbird",
+  "Year": "1977-01-01",
+  "Origin": "India",
+  "id": 238,
+  "location": [
+    "87.2872",
+    "28.9499"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258c8"
+  },
+  "Name": "volkswagen rabbit custom",
+  "Year": "1977-01-01",
+  "Origin": "Europe",
+  "id": 239,
+  "location": [
+    "27.5264",
+    "52.9790"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258c9"
+  },
+  "Name": "pontiac sunbird coupe",
+  "Year": "1977-01-01",
+  "Origin": "India",
+  "id": 240,
+  "location": [
+    "23.0648",
+    "26.2106"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258ca"
+  },
+  "Name": "toyota corolla liftback",
+  "Year": "1977-01-01",
+  "Origin": "Japan",
+  "id": 241,
+  "location": [
+    "48.7684",
+    "98.6901"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258cb"
+  },
+  "Name": "ford mustang ii 2+2",
+  "Year": "1977-01-01",
+  "Origin": "India",
+  "id": 242,
+  "location": [
+    "33.4521",
+    "88.8724"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258cd"
+  },
+  "Name": "dodge colt m/m",
+  "Year": "1977-01-01",
+  "Origin": "India",
+  "id": 244,
+  "location": [
+    "73.1987",
+    "95.1024"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258ce"
+  },
+  "Name": "subaru dl",
+  "Year": "1977-01-01",
+  "Origin": "Japan",
+  "id": 337,
+  "location": [
+    "32.2199",
+    "46.4515"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258d8"
+  },
+  "Name": "oldsmobile cutlass salon brougham",
+  "Year": "1978-01-01",
+  "Origin": "India",
+  "id": 306,
+  "location": [
+    "86.5265",
+    "27.9181"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258d9"
+  },
+  "Name": "dodge diplomat",
+  "Year": "1978-01-01",
+  "Origin": "India",
+  "id": 256,
+  "location": [
+    "93.1198",
+    "45.5267"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258da"
+  },
+  "Name": "mercury monarch ghia",
+  "Year": "1978-01-01",
+  "Origin": "India",
+  "id": 257,
+  "location": [
+    "60.2586",
+    "67.5712"
+  ]
+},{
+  "_id": {
+    "$oid": "60aa2cc757438c05ec8258db"
+  },
+  "Name": "pontiac phoenix lj",
+  "Year": "1978-01-01",
+  "Origin": "India",
+  "id": 258,
+  "location": [
+    "49.6753",
+    "82.7186"
+  ]
+}]

@@ -1,0 +1,26 @@
+{% extends "register.html" %}
+{% block content %}
+    <div class="table-responsive">
+        <h2>Near Locations</h2>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Latitude</th>
+                    <th>Longitude</th>
+                    <th>Distance m</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for i in data %}
+                <tr>
+                    {% for j in i %}
+                    <td>{{j}}</td>
+                {% endfor %}
+                </tr>   
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <a href="/">back</a>
+{% endblock %}
